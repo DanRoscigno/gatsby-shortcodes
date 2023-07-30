@@ -14,5 +14,5 @@ gatsby new tutorial https://github.com/gatsbyjs/gatsby-starter-hello-world
 
 ```sh
 cd /ibas/tutorial
-npm run develop -- -H 0.0.0.0
+gatsby develop -H 0.0.0.0
 ```
