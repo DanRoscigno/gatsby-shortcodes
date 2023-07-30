@@ -1,6 +1,6 @@
 FROM ubuntu:23.04
 
-WORKDIR /site
+WORKDIR /ibas
 
 RUN apt-get update -y && \
     apt-get install -y npm && \
