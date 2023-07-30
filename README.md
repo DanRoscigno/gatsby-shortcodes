@@ -21,5 +21,8 @@ gatsby new tutorial https://github.com/gatsbyjs/gatsby-starter-hello-world
 
 ```sh
 cd /ibas/tutorial
+# might need to do an
+# npm install
+# if the previous session added any packages
 gatsby develop -H 0.0.0.0
 ```
