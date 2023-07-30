@@ -1,15 +1,15 @@
 import React from 'react';
 import Layout from '../components/layout';
 
-const Index = () => {
+const Blog = () => {
   return (
     <Layout>
     <div>
-      <h1>Home page</h1>
-      <h2>I'm Ibas, a teacher and a Gatsby.js developer</h2>
+      <h1>Blog Page</h1>
+      <p>Blog posts will be displayed here!</p>
     </div>
     </Layout>
   );
 };
 
-export default Index;
+export default Blog;
