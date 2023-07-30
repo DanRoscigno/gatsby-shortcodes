@@ -3,6 +3,9 @@
 
 https://ibaslogic.com/gatsby-tutorial-from-scratch-for-beginners/
 
+Maybe it is better to read in GitHub?
+https://github.com/Ibaslogic/Ibaslogic/tree/1d895104628c4b53b087f44722a554c31713797c/src/contents/series
+
 ```sh
 docker build -t gatsby-develop .
 ```
